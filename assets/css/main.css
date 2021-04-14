@@ -2133,15 +2133,15 @@ input, select, textarea {
 				width: 100%;
 			}
 
-		.image.avatar {
+		.image.ProfilePic {
 			border-radius: 100%;
 		}
 
-			.image.avatar:before {
+			.image.ProfilePic:before {
 				display: none;
 			}
 
-			.image.avatar img {
+			.image.ProfilePic img {
 				border-radius: 100%;
 				width: 100%;
 			}
@@ -2638,7 +2638,7 @@ input, select, textarea {
 			margin: 0;
 		}
 
-		#header .image.avatar {
+		#header .image.ProfilePic {
 			margin: 0 0 1em 0;
 			width: 6.25em;
 		}
